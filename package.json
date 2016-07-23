@@ -1,0 +1,21 @@
+{
+  "name": "duck-json-server",
+  "version": "1.0.0",
+  "description": "duck json-server instance",
+  "author": "Tomasz Ducin <tomasz.ducin@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "generate": "node generate.js",
+    "start": "json-server dist/db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wealthy-laughing-duck/duck-json-server.git"
+  },
+  "homepage": "https://github.com/wealthy-laughing-duck/duck-json-server#readme",
+  "dependencies": {
+    "json-schema-faker": "^0.3.4",
+    "json-server": "^0.8.16",
+    "jsonfile": "^2.3.1"
+  }
+}
