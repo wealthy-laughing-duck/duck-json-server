@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "generate": "node generate.js",
-    "start": "json-server dist/db.json"
+    "start": "json-server dist/db.json --routes dist/routes.json"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,6 @@
+{
+  "/categories/incomes": "/incomeCategories",
+  "/categories/incomes/:id": "/incomeCategories/:id",
+  "/categories/outcomes": "/outcomeCategories",
+  "/categories/outcomes/:id": "/outcomeCategories/:id"
+}
