@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/wealthy-laughing-duck/duck-json-server.svg?branch=master)](https://travis-ci.org/wealthy-laughing-duck/duck-json-server)
+
 # duck-json-server
 
 Fake REST API for Wealthy Laughing Duck project.
